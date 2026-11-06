@@ -13,6 +13,8 @@ so the first run adds a design rather than a layout.
 
 Nothing here is a design. Replace it by describing what you want to build.
 
+Checked with copperhead 0.13.0 by the platform suite.
+
 ## Working locally
 
 The CLI needs no account and no cloud:
